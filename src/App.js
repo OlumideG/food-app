@@ -7,7 +7,7 @@ import Clarifai from 'clarifai';
 
 //  Project done with class
 const app = new Clarifai.App({
-  apiKey: api
+  apiKey: '7859e2b7121347019dbd399d7f7fac6b'
  });
 
 
