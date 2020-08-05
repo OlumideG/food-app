@@ -37,7 +37,7 @@ const app = new Clarifai.App({
  const Cards = ({ info, id }) =>
  <div>
         <h5>
-          {info.name} at {info.value}
+          {info.name} at {info.value x 100}"%"
         </h5>
     {/* <div className="card" >
         <ul className="list-group list-group-flush">
